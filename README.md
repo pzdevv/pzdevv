@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pzdevv/pzdevv/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pzdevv/pzdevv/snake.svg" alt="Snake animation" />
 
 ###
